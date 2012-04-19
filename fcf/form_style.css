@@ -1,0 +1,48 @@
+#fcf2 {
+font-family:arial;
+font-size:11px;
+margin:5px;
+width:450px;
+}
+#fcf2 h3 {
+font-size:1.5em;
+color:#FFFFFF;
+font-weight:bold;
+padding:4px;
+margin:0px;
+}
+#fcf2 p {
+margin:0 120px;
+padding:8px;
+}
+#fcf2 em {
+color:#F00;
+}
+#fcf2 div.r {
+clear: both;
+padding-top: 5px;
+}
+#fcf2 label {
+float: left;
+width: 100px;
+text-align: right;
+}
+#fcf2 span.f {
+float: right;
+width: 335px;
+text-align: left;
+}
+#fcf2 div.sp {
+clear: both;
+}
+#fcf2 .req {
+font-weight:bold;
+}
+#fcf2 input, #fcf2 textarea {
+background: #FFF;
+padding:2px;
+}
+#fcf2 input:focus, #fcf2 textarea:focus {
+background: #f2f2f2;
+
+}
